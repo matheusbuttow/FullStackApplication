@@ -44,3 +44,4 @@ projeto/
 ```
 
 ## Em progresso...
+Othavio Gay
